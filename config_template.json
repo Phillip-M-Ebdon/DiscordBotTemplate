@@ -1,0 +1,6 @@
+{
+  "prefix": "prefix",
+  "token": "discord_bot_token",
+  "default_cooldown" : 3,
+  "database": "./storage/database.sqlite"
+}
